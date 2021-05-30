@@ -1,0 +1,7 @@
+{
+  "name": "insta-clone",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
